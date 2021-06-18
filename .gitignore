@@ -1,2 +1,6 @@
 .nova/*
+composer.lock
 composer.phar
+vendor/
+config.php
+.idea/
